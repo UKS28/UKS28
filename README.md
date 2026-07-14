@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ujjwal Kumar Singh</h1>
 
-<!--
-**UKS28/UKS28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Backend Developer | Node.js | System Design | AI Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💼 Software Developer
+- 🎓 B.Tech IT, NIT Jalandhar
+- 🚀 Building Let Us Collab
+- 🌱 Currently learning AI Agents and System Design
+- 💬 Ask me about Node.js, Redis, SQL, Elasticsearch
+
+---
+
+## 📫 Reach Me
+
+- LinkedIn: https://www.linkedin.com/in/ujjwal-kumar-singh-679444202/
+- Email: ujjwalsinghkashyap12@gmail.com
