@@ -1,16 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Kumar Singh</h1>
 
 <h3 align="center">
-Backend Engineer • Node.js Developer • System Design Enthusiast • AI Explorer
+ Full Stack Developer • System Design Enthusiast • AI Explorer
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;Building+Scalable+Systems;Creator+of+Let+Us+Collab;Redis+%7C+AWS+%7C+Elasticsearch;Learning+AI+Agents+%26+RAG;Always+Learning+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UKS28&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
 
 ---
 
@@ -29,9 +21,11 @@ Backend Engineer • Node.js Developer • System Design Enthusiast • AI Explo
 
 💬 **Ask Me About**
 - Node.js
+- React Js
 - Redis
 - Elasticsearch
 - MySQL
+- MongoDB
 - AWS
 - System Design
 
