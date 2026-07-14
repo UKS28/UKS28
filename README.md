@@ -14,33 +14,26 @@ Backend Engineer • Node.js Developer • System Design Enthusiast • AI Explo
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-```javascript
-const ujjwal = {
-    role: "Software Developer",
-    company: "RoundGlass",
-    education: "B.Tech IT @ NIT Jalandhar",
+💼 **Software Developer** @ RoundGlass
 
-    currentlyLearning: [
-        "LLMs",
-        "RAG",
-        "LangGraph",
-        "Distributed Systems"
-    ],
+🎓 **B.Tech IT** — NIT Jalandhar
 
-    askMeAbout: [
-        "Node.js",
-        "Express",
-        "Koa",
-        "Redis",
-        "MySQL",
-        "Elasticsearch",
-        "System Design",
-        "AWS"
-    ]
-}
-```
+
+📚 **Learning**
+- AI Agents
+- LangGraph
+- RAG
+- Distributed Systems
+
+💬 **Ask Me About**
+- Node.js
+- Redis
+- Elasticsearch
+- MySQL
+- AWS
+- System Design
 
 ---
 
@@ -56,11 +49,11 @@ const ujjwal = {
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/u/UKS_28/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
+<a href="https://codeforces.com/profile/uks_28">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
 </a>
 
